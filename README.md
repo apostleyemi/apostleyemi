@@ -30,10 +30,6 @@ on intresting projects and innovative ideas. Find out more about me & feel free 
 <br />
 
 ## Tools  & Frameworks
-![.NET](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-![.NET](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-
-
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -58,5 +54,6 @@ on intresting projects and innovative ideas. Find out more about me & feel free 
 
     <img width="48%" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apostleyemi&show_icons=true)" />
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apostleyemi&count_private=true)
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </p>
