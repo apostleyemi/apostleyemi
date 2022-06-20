@@ -48,12 +48,5 @@ on intresting projects and innovative ideas. Find out more about me & feel free 
 
 <br/>
 
-
-<p align="center">
-    [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=apostleyemi)](https://github.com/apostleyemi/github-readme-activity-graph)
-
-    <img width="48%" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apostleyemi&show_icons=true)" />
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apostleyemi&count_private=true)
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=apostleyemi&bg_color=0f2a48&color=f2f2f2&line=ffffff&point=74fb7d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
