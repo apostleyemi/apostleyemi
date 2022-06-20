@@ -16,14 +16,13 @@ on intresting projects and innovative ideas. Find out more about me & feel free 
 
 <p align="center">
 
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25"/>
-
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" height="25"/>
-
+<h2>C#</h2>
+<h2>.NET</h2>
+<h2>Php</h2>
+<h2>Laravel</h2>
+<h2>Dart</h2>
+<h2>Flutter</h2>
+<h2>React</h2>
 
 
 </p>
