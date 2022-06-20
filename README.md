@@ -54,8 +54,9 @@ on intresting projects and innovative ideas. Find out more about me & feel free 
 
 
 <p align="center">
+    [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=apostleyemi)](https://github.com/apostleyemi/github-readme-activity-graph)
 
-    <img width="48%" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apistleyemi&show_icons=true)" />
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apistleyemi&count_private=true)
+    <img width="48%" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apostleyemi&show_icons=true)" />
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apostleyemi&count_private=true)
 
 </p>
