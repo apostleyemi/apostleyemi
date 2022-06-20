@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <h2 align="center">
-    Hi, I am Adedayo ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+    Hi, ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="15px">
 
 </h2>
 
