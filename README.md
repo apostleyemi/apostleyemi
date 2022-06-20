@@ -28,9 +28,11 @@ on intresting projects and innovative ideas. Find out more about me & feel free 
 
 </p>
 <br />
-<br />
-<br />
-<br />
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JuliRash&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JuliRash&theme=tokyonight" />
+</p>
 
 ## Tools  & Frameworks
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
