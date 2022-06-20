@@ -1,7 +1,11 @@
 ### Hi there 👋
+
 <h2 align="center">
-    Hi, I am Adedayo ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px">
+    Hi, I am Adedayo ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
 </h2>
+
+
 I am Adedayo Adegbenro, I currently work as a software developer in Nigeria 🇳🇬 . I am always open to collaborating
 on intresting projects and innovative ideas. Find out more about me & feel free to connect with me here:
 
@@ -48,9 +52,10 @@ on intresting projects and innovative ideas. Find out more about me & feel free 
 
 <br/>
 
-[![Adedayo's github activity graph](https://activity-graph.herokuapp.com/graph?username=apostleyemi&theme=xcode)](https://git.io/starlightknown)
+
 <p align="center">
 
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=apostleyemi&show_icons=true&theme=tokyonight" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=apostleyemi&theme=tokyonight" />
+    <img width="48%" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apistleyemi&show_icons=true)" />
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apistleyemi&count_private=true)
+
 </p>
