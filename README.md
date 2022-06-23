@@ -52,5 +52,6 @@ on intresting projects and innovative ideas. Find out more about me & feel free 
 
 <br/>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=apostleyemi&bg_color=0f2a48&color=f2f2f2&line=ffffff&point=74fb7d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph]([https://activity-graph.herokuapp.com](https://damp-eyrie-97363.herokuapp.com/)/graph?username=apostleyemi&bg_color=0f2a48&color=f2f2f2&line=ffffff&point=74fb7d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
