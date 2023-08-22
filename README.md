@@ -4,26 +4,17 @@
 </h2>
 
 
-I am Adedayo Adegbenro, I currently work as a software developer in Nigeria 🇳🇬 . I am always open to collaborating
-on intresting projects and innovative ideas. Find out more about me & feel free to connect with me here:
+My name is Adedayo Adegbenro, and I'm currently working as a software developer based in Nigeria 🇳🇬. I'm highly passionate about collaborating on intriguing projects and pushing the boundaries of innovative ideas. If you're interested in learning more about me and connecting, you're welcome to explore the following information:
 
-<p align="center">
-</p>
+Here are the technologies I specialize in:
 
-## Core Languages:
-
-<p align="center">
-
-<h2>C#</h2>
-<h2>.NET</h2>
-<h2>Php</h2>
-<h2>Laravel</h2>
-<h2>Dart</h2>
-<h2>Flutter</h2>
-<h2>React</h2>
+C#
+.NET
+Laravel
+Dart
+SQL
 
 
-</p>
 <br />
 <p align="center">
 	
