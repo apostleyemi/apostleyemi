@@ -4,16 +4,9 @@
 </h2>
 
 
-My name is Adedayo Adegbenro, and I'm currently working as a software developer based in Nigeria 🇳🇬. I'm highly passionate about collaborating on intriguing projects and pushing the boundaries of innovative ideas. If you're interested in learning more about me and connecting, you're welcome to explore the following information:
+My name is Adedayo Adegbenro, a seasoned Senior Software Developer with a deep passion for crafting innovative software solutions that bridge business needs with technical expertise. I have extensive experience in full-stack development, specializing in technologies such as C#, ASP.NET Core, PHP, Laravel, and SQL Server. Throughout my career, I have had the privilege of leading teams and delivering impactful projects in sectors ranging from education to finance and healthcare.
 
-Here are the technologies I specialize in:
-
-C#
-.NET
-Laravel
-Dart
-SQL
-
+I hold a Bachelor of Technology in Computer Engineering from Ladoke Akintola University and have successfully developed key applications like Mozfin (a mobile payment app) and LearnAm (an e-learning platform). My proficiency spans across cloud computing, microservice architecture, CI/CD with Docker, and API development for both web and mobile platforms.
 
 <br />
 <p align="center">
